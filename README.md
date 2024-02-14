@@ -1,4 +1,4 @@
-# Statistical-Inferences-and-Hypothesis-Testing
+# Statistical Inferences and Hypothesis Testing
 ### Methods Used: 
 Method of Moments, Confidence Interval with a known Standard Deviation, Selection of a Sample Size for a Confidence Interval, Confidence Interval for two proportions, Sample-T Problem, Satterthwaite Estimation, Hypothesis Testing
 
@@ -31,7 +31,7 @@ Find: <br />
 • Show the 3rd moment of sample Teetertotter. <br />
 • Solve for A, B, and C. <br />
 
-![Result1]()
+![Result1](https://github.com/Eddie-Carrizales/Statistical-Inferences-and-Hypothesis-Testing/blob/main/Images/Results1.png)
 
 ## Confidence Interval with a known Standard Deviation
 Given: <br />
@@ -50,7 +50,7 @@ Find: <br />
 • What is the value of the lower limit of the confidence interval? <br />
 • What is the value of the upper limit of the confidence interval? <br />
 
-![Result2]()
+![Result2](https://github.com/Eddie-Carrizales/Statistical-Inferences-and-Hypothesis-Testing/blob/main/Images/Results2.png)
 
 ## Selection of a Sample Size for a Confidence Interval
 Given: <br /> 
@@ -64,7 +64,7 @@ Find: <br />
 • What is the value of 𝒁(𝜶/𝟐)? <br />
 • What is the sample size n? <br />
 
-![Result3]()
+![Result3](https://github.com/Eddie-Carrizales/Statistical-Inferences-and-Hypothesis-Testing/blob/main/Images/Results3.png)
 
 ## Confidence Interval for two proportions
 Given: <br />
@@ -83,7 +83,7 @@ Find: <br />
 • What is the value of the lower limit of the confidence interval? <br />
 • What is the value of the upper limit of the confidence interval? <br />
 
-![Result3]()
+![Result4](https://github.com/Eddie-Carrizales/Statistical-Inferences-and-Hypothesis-Testing/blob/main/Images/Results4.png)
 
 ## Sample-T Problem
 Given: <br />
@@ -102,7 +102,7 @@ Find: <br />
 • What is the lower limit of the confidence interval? <br />
 • What is the upper bound of the confidence interval? <br />
 
-![Result4]()
+![Result5](https://github.com/Eddie-Carrizales/Statistical-Inferences-and-Hypothesis-Testing/blob/main/Images/Results5.png)
 
 ## Satterthwaite Estimation
 Given: <br />
@@ -116,7 +116,7 @@ Find: <br />
 • What is the sample standard deviation of Satterthwaite-Y, S𝒚? <br />
 • Estimate the number of degrees of freedom v. <br />
 
-![Result5]()
+![Result6](https://github.com/Eddie-Carrizales/Statistical-Inferences-and-Hypothesis-Testing/blob/main/Images/Results6.png)
 
 ## Hypothesis Testing
 Given: <br />
@@ -133,4 +133,4 @@ Write a program in R, Python, C++, Java, or MATLAB <br />
 &nbsp;&nbsp;o For each of the confidence intervals <br />
 &nbsp;&nbsp;&nbsp; Show if the Z-Test targets fall within the confidence interval. <br />
 
-![Result6]()
+![Result7](https://github.com/Eddie-Carrizales/Statistical-Inferences-and-Hypothesis-Testing/blob/main/Images/Results7.png)
