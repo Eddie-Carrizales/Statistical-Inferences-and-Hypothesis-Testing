@@ -2,7 +2,6 @@ import numpy as np
 import math
 
 # Name: Edilberto Carrizales
-# Date: October 18, 2023
 # Language: Python
 # Language version: 3.9
 
@@ -109,8 +108,7 @@ def problem1():
     """
 
     # Read in the sample file Teetertotter.txt
-    path = "/Users/Eddie Carrizales/OneDrive/Desktop/Statistics Project 3/Teetertotter.txt"
-    # path = "/Users/eddiecarrizales/Desktop/Statistics Project 3/Teetertotter.txt"
+    path = "/Users/Eddie Carrizales/OneDrive/Desktop/Teetertotter.txt"
 
     teetertotter_data = np.loadtxt(path, delimiter=" ")
     # print(teetertotter_data)
@@ -150,8 +148,7 @@ def problem2():
     """
 
     # Read in the sample file Triple.txt
-    path = "/Users/Eddie Carrizales/OneDrive/Desktop/Statistics Project 3/Triple.txt"
-    # path = "/Users/eddiecarrizales/Desktop/Statistics Project 3/Triple.txt"
+    path = "/Users/Eddie Carrizales/OneDrive/Desktop/Triple.txt"
 
     triple_data = np.loadtxt(path, delimiter=" ")
     # print(triple_data)
@@ -338,8 +335,7 @@ def problem5():
     """
 
     # Read in the sample file PI.txt
-    path = "/Users/Eddie Carrizales/OneDrive/Desktop/Statistics Project 3/PI.txt"
-    # path = "/Users/eddiecarrizales/Desktop/Statistics Project 3/PI.txt"
+    path = "/Users/Eddie Carrizales/OneDrive/Desktop/PI.txt"
 
     pi_data = np.loadtxt(path, delimiter=" ")
     # print(pi_data)
@@ -413,15 +409,13 @@ def problem6():
     • Estimate the number of degrees of freedom v.
     """
     # ---Read in the sample files satterthwaiteX.txt and satterthwaiteY.txt---
-    path1 = "/Users/Eddie Carrizales/OneDrive/Desktop/Statistics Project 3/satterthwaiteX.txt"
-    # path1 = "/Users/eddiecarrizales/Desktop/Statistics Project 3/satterthwaiteX.txt"
+    path1 = "/Users/Eddie Carrizales/OneDrive/Desktop/satterthwaiteX.txt"
 
     satterthwaiteX_data = np.loadtxt(path1, delimiter=" ")
     # print(satterthwaiteX_data)
     # print("")
 
-    path2 = "/Users/Eddie Carrizales/OneDrive/Desktop/Statistics Project 3/satterthwaiteY.txt"
-    # path2 = "/Users/eddiecarrizales/Desktop/Statistics Project 3/satterthwaiteY.txt"
+    path2 = "/Users/Eddie Carrizales/OneDrive/Desktop/satterthwaiteY.txt"
 
     satterthwaiteY_data = np.loadtxt(path2, delimiter=" ")
     # print(satterthwaiteY_data)
@@ -466,8 +460,7 @@ def problem7():
     """
 
     # Read in the sample file Duality.txt
-    path = "/Users/Eddie Carrizales/OneDrive/Desktop/Statistics Project 3/Duality.txt"
-    # path = "/Users/eddiecarrizales/Desktop/Statistics Project 3/Duality.txt"
+    path = "/Users/Eddie Carrizales/OneDrive/Desktop/Duality.txt"
 
     duality_data = np.loadtxt(path, delimiter=" ")
     # print(duality_data)
